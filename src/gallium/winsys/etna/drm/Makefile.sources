@@ -1,0 +1,3 @@
+C_SOURCES := \
+	etna_drm_public.h \
+	etna_drm_winsys.c
